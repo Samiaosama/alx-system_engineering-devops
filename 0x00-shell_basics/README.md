@@ -1,1 +1,1 @@
- xaa
+#!/bin/bash

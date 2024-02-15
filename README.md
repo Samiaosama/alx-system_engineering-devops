@@ -1,1 +1,1 @@
-azmir
+#!/bin/bash
