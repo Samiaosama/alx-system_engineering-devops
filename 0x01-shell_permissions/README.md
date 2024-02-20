@@ -1,2 +1,1 @@
-#!/bin/bash
-$ wc -l file
+My name is Betty
